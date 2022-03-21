@@ -4,4 +4,4 @@
 
 ## Introduction
 
-Many things will be buried due to government censorship, but the truth is eternal
+A blockchain project for learning
